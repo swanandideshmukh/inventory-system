@@ -1,6 +1,6 @@
 # 📦 Smart Inventory & Supply Chain Management System
 
-![Dashboard Preview](https://inventory-system-five-hazel.vercel.app)
+<img width="1354" height="676" alt="image" src="https://github.com/user-attachments/assets/471ae8e4-341f-4b10-922e-419d3898af31" />
 
 ## 🌐 Live Demo
 👉 **[Click here to view live project](https://inventory-system-five-hazel.vercel.app)**
